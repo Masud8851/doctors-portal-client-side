@@ -10,7 +10,7 @@ import React, { useState } from "react";
 import { Grid } from "@mui/material";
 import login from "../../../images/login.png";
 import { NavLink } from "react-router-dom";
-import useAuth from "./../../../hooks/useAuth";
+import useAuth from "../../../Hooks/useAuth";
 
 const Register = () => {
 	const [loginData, setLoginData] = useState({});
