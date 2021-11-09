@@ -47,5 +47,4 @@ const Navigation = () => {
 		</Box>
 	);
 };
-
 export default Navigation;
